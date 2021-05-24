@@ -1,0 +1,13 @@
+title: High-Performance Computing with Slurm       # the lesson's title
+handouts:        # a list of handouts, e.g. worksheets and data
+ - ...
+tag: 0.0         # current handout release version
+lesson: ...      # the number of the lesson (for /instructor view)
+lifecycle: alpha # status for lifecycle badge 
+badgecolor: pink # color for lifecycle badge
+warning: true    # whether to include note about lifecycle status
+instructor: ...  # the name of the instructor (for /instructor view)
+authors:         # a list of those writing the lesson
+ - Quentin Read
+sorter:          # an ordered list of slides (file names without extension)
+ - ...           # contained in the top-level "slides" folder
